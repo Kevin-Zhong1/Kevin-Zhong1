@@ -1,4 +1,4 @@
-Hi, I’m Kevin Zhong👋
+**Hi, I’m Kevin Zhong👋**
 
 - ⚡ I'm a Commerce / Computer Science student at the University of New South Wales, with a indefatigable passion for code, programming languages and software design.
 
